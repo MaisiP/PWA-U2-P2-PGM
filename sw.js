@@ -71,5 +71,3 @@ self.addEventListener('fetch',(event)=>{
         })
     event.respondWith(respuestaCache)
 })
-
-self.addEventListener()
